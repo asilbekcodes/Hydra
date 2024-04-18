@@ -1340,6 +1340,26 @@ video {
   padding-left: 14rem;
 }
 
+.pl-3 {
+  padding-left: 0.75rem;
+}
+
+.pl-32 {
+  padding-left: 8rem;
+}
+
+.pr-32 {
+  padding-right: 8rem;
+}
+
+.pl-44 {
+  padding-left: 11rem;
+}
+
+.pr-44 {
+  padding-right: 11rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1386,6 +1406,14 @@ video {
 
 .font-bold {
   font-weight: 700;
+}
+
+.leading-4 {
+  line-height: 1rem;
+}
+
+.leading-10 {
+  line-height: 2.5rem;
 }
 
 .tracking-wider {
