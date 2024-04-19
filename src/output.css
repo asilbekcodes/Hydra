@@ -791,6 +791,39 @@ video {
   background-color: inherit;
 }
 
+.bg-gradient-to-b {
+  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
+}
+
+.bg-gradient-to-r {
+  background-image: linear-gradient(to right, var(--tw-gradient-stops));
+}
+
+.from-\[\#211E2E\] {
+  --tw-gradient-from: #211E2E var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(33 30 46 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.from-\[\#8176AF\] {
+  --tw-gradient-from: #8176AF var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(129 118 175 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.via-\[\#3A3456\] {
+  --tw-gradient-to: rgb(58 52 86 / 0)  var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), #3A3456 var(--tw-gradient-via-position), var(--tw-gradient-to);
+}
+
+.to-\[\#211E2E\] {
+  --tw-gradient-to: #211E2E var(--tw-gradient-to-position);
+}
+
+.to-\[\#C0B7E8\] {
+  --tw-gradient-to: #C0B7E8 var(--tw-gradient-to-position);
+}
+
 .p-10 {
   padding: 2.5rem;
 }
