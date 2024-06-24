@@ -2,7 +2,7 @@ ___<h1 align="center">Hydra</h1>___
 
 ---
 
-### Written by ___Asilbekcodes.___
+## Written by ___Asilbekcodes.___
 
 ---
 
